@@ -46,7 +46,7 @@ The goal of this project is to **exactly replicate** the Design Declares website
 
 To run the project locally:
 
-```bash
+bash
 git clone https://github.com/sanskriti0606/Web-Developer.git
 cd Web-Developer
 npm install
