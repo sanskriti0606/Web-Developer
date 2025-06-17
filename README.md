@@ -49,14 +49,8 @@ npm run dev
 ---
 
 
-
-
 🙏 Acknowledgments
 Thanks to FitPeo Tech Pvt Ltd for the opportunity. I look forward to your feedback.
-
-![image](https://github.com/user-attachments/assets/c8499b5b-7bbd-4781-8d8c-dba393e6ff17)
-![image](https://github.com/user-attachments/assets/ad8f8c4d-9c0b-4efb-9fb8-7841774647cf)
-![image](https://github.com/user-attachments/assets/8c683451-631a-4245-bf93-ba07a70e1efe)
 
 
 
