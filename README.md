@@ -37,7 +37,7 @@ The goal of this project is to **exactly replicate** the Design Declares website
 - ✅ Fully responsive layout across all devices
 - ✅ High performance (60fps), optimized re-renders
 
----
+
 
 To run the project locally:
 
@@ -48,9 +48,6 @@ npm install
 npm run dev
 ---
 
-
-🙏 Acknowledgments
-Thanks to FitPeo Tech Pvt Ltd for the opportunity. I look forward to your feedback.
 
 
 
