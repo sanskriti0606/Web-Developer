@@ -39,6 +39,11 @@ The goal of this project is to **exactly replicate** the Design Declares website
 
 
 
+
+---
+
+## 🧪 Getting Started
+
 To run the project locally:
 
 ```bash
@@ -47,6 +52,10 @@ cd Web-Developer
 npm install
 npm run dev
 ---
+
+---
+
+Let me know if you'd like to auto-generate it with your actual deployed URL, tech choices (like Tailwind or GSAP), or contact email.
 
 
 
