@@ -51,7 +51,7 @@ git clone https://github.com/sanskriti0606/Web-Developer.git
 cd Web-Developer
 npm install
 npm run dev
----
+
 
 
 
