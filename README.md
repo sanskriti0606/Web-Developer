@@ -55,7 +55,14 @@ npm run dev
 
 ---
 
-Let me know if you'd like to auto-generate it with your actual deployed URL, tech choices (like Tailwind or GSAP), or contact email.
+🙏 Acknowledgments
+Thanks to FitPeo Tech Pvt Ltd for the opportunity. I look forward to your feedback.
+
+![image](https://github.com/user-attachments/assets/d004c907-7a33-42f5-94de-3c4c5ba5184e)
+![image](https://github.com/user-attachments/assets/0deea3cf-d50d-47e0-b1ea-1a32be99487a)
+![image](https://github.com/user-attachments/assets/48d1244a-f0d6-472a-8232-e033e22a062e)
+
+
 
 
 
